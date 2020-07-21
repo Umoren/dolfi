@@ -27,7 +27,7 @@
   </i>
 </div>
   
-  <div class="container"><h4 style="border-radius: px;">After the adoption of the euro, policy changed to linking currencies of EU countries outside the eurozone to the euro (having the common currency as a central point).<br><br>The goal was to improve the stability of those currencies, as well as to gain an evaluation mechanism for potential eurozone members. As of 2020, three currencies participate in ERM II: the Danish krone, the Croatian kuna and the Bulgarian lev.</h4>
+  <div class="container"><h4 style="border-radius: px; font-size:1em;">Hiya <br><br> Right now I've deployed this gridsome site with netlify and none of the images are present. When I snoop around in Inspect, I can see errors that are causing this. But I don't understand them. The images ARE somewhere in the render, but I don't know why they don't work as they do in the Local8080.<br><br>That is clearly the foremost issue I have, but there are others too! I could use help with javascript. I need a very simple way to play audio clips. I need a very simple and functional check-out cart (paypal only) and I need a indexed-site search.</h4>
   <div class="left">
     <div class="item item1" style="margin-bottom:.34em;">
       
@@ -38,9 +38,11 @@
   </div>
 
   <div class="right">
-    <div class="item item4"> <p>Here it comes, the site is all fixed and online. The idea here is to keep pumping this place full of hot records to sell.<br><br>
-    As of today, I would guess this should be as minimium viable product in 10 days or so. I need to get JS running so audio player works. I need to get instagram going too. Mailchimp, etc. So 10 days is about right.<br><br>
-    Right now, I'm mostly excited about the Elle et moi 12" from Belgian. I can't remember the artist name, but it's definitely high on my list and hasn't sold on discogs since the last copy i got in 2018. </p> 
+    <div class="item item4"> <p><g-link to="https://codepen.io/DonnaG/pen/LpVEYG">Example of "audio player"</g-link><br><br>
+    <p><g-link to="https://www.youtube.com/watch?v=xCzeIP1JzmE&feature=youtu.be">A better example of "audio player"</g-link><br><br>
+    <p><g-link to="https://codepen.io/justinklemm/pen/zAdoJ">Shopping cart example (codepen)</g-link><br><br>
+    <p><g-link to="https://codepen.io/jamiehalvorson/pen/BQJaQr">paypal confirmation</g-link><br><br>
+    <p><g-link to="https://codepen.io/veticus/pen/KKdepmq">track shipping</g-link><br><br></p> 
 </div>
   </div>
 </div>
@@ -140,7 +142,7 @@ h4 {
   text-align: left;
   margin-bottom: .67em;
   font-size:1.25em;
-  background-color: red;
+  background-color: whitesmoke;
   padding:2vw;
 }
   
@@ -177,7 +179,7 @@ h4 {
   margin-right: 2.67vw;
   margin-bottom: 2.67vw;
   font-size:1.25em;
-  background-color: red;
+  background-color:whitesmoke;
   padding:2vw;
   
 }
@@ -220,7 +222,7 @@ h4 {
   margin-right: 2.67vw;
   margin-top: 3.15vw;
   font-size:1.25em;
-  background-color: red;
+  background-color: whitesmoke;
   padding:2vw;
   width: 76%;
 }
