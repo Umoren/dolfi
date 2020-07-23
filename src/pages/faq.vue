@@ -80,7 +80,7 @@
 				<input type="checkbox" id="check-4" />
 				<label for="check-4">What can you tell me about shipping?</label>
 				<article>
-					<p style="margin-bottom:.67em;">In your paypal payment, a tracking number will be added and can be searched <mark><g-link to="https://www.postnord.se/en/our-tools/track-and-trace2">right here.</g-link></mark>PostNord delivers within 5 working days in the EU and somewhere around 6-8 in North america and Asia.</p>
+					<p style="margin-bottom:.67em;">In your paypal payment, a tracking number will be added and can be searched <mark><g-link to="https://www.postnord.se/en/our-tools/track-and-trace2">right here.</g-link></mark> PostNord delivers within 5 working days in the EU and somewhere around 6-8 in North america and Asia.</p>
 				</article>
 			</div>
 		</section>

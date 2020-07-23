@@ -500,7 +500,7 @@ h3 {
   margin-left:24.67vw;
   margin-right:2vw;
   background-color: whitesmoke;
-  padding:.67vw;
+  padding:1vw;
   font-size:1.25em;
   font-weight: bold;
 }
@@ -593,7 +593,7 @@ h3 {
   margin-left:23.95vw;
   margin-right:2vw;
   background-color: whitesmoke;
-  padding:.67vw;
+  padding: 1vw;
 }
       }
 

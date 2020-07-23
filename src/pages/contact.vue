@@ -29,7 +29,7 @@
   </i>
 </div>
 
-<h3>In your paypal payment, a tracking number will be added and can be searched right here.PostNord delivers within 5 working days in the EU and somewhere around 6-8 in North america and Asia.</h3>
+<h3>In your paypal payment, a tracking number will be added and can be searched right here. PostNord delivers within 5 working days in the EU and somewhere around 6-8 in North america and Asia.</h3>
 
  <form action="/action_page.php">
   <div class="row2">
@@ -353,6 +353,7 @@ h3 {
   margin-right:2vw;
   background-color: whitesmoke;
   padding: .67vw;
+  font-size:1.25em;
 }
 
       }
@@ -381,17 +382,11 @@ h3 {
   margin-left: 25vw;
   margin-right: 2vw;
   background-color:whitesmoke;}
-
-   .col-25 {
-  text-align: right;
-  color: black;
-  font-size: 1.5em;
-  font-weight: bold;
-  margin: 0em;
-  padding:0em;}
+  
 
 
 h3 {
+  font-size:1.25em;
   margin-top:1.5em;
   margin-left:25vw;
   margin-right:2vw;
@@ -439,7 +434,7 @@ h3 {
   margin: 0em;
   padding:0em;
   font-size: 1.25em;
-   background-color:none;}       
+  background-color:none;}       
 
 
 h3 {
@@ -449,5 +444,5 @@ h3 {
   margin-right: 2vw;
   background-color: whitesmoke;
   padding:2vw;}
-        }
+  }
 </style>
