@@ -29,7 +29,7 @@
   </i>
 </div>
 
-<h3>In your paypal payment, a tracking number will be added and can be searched right here.PostNord delivers within 5 working days in the EU and somewhere around 6-8 in North america and Asia.</h3>
+<h3>In your paypal payment, a tracking number will be added and can be searched right here. PostNord delivers within 5 working days in the EU and somewhere around 6-8 in North america and Asia.</h3>
 <div class="row">
   <div class="column left">
     <g-image src="~/static/Images/hrb7.jpg"/>
@@ -104,7 +104,7 @@
       <label for="name">Name</label>
     </div>
     <div class="col-75">
-      <input type="text" id="fname" name="firstname" style="text-align:right; background-color:whitesmoke;">
+      <input type="text" id="fname" name="firstname" style="text-align:right; background-color:whitesmoke; font-weight:bold;">
     </div>
   </div>
   <div class="row2">
@@ -112,15 +112,15 @@
       <label for="lname">Email address</label>
     </div>
     <div class="col-75" style="text-align:right; margin:0em;">
-      <input type="text" id="lname" name="lastname" style="text-align:right; background-color:whitesmoke;" placeholder="">
+      <input type="text" id="lname" name="lastname" style="text-align:right; background-color:whitesmoke; font-weight:bold;" placeholder="">
     </div>
   </div>
   <div class="row2">
-    <div class="col-25" style="text-align:right; margin:0em;" >
+    <div class="col-25" style="text-align:right; margin:0em; font-weight:bold;" >
       <label for="topic">Topic</label>
     </div>
     <div class="col-75">
-      <select id="topic" name="topic" style="color:black; background-color:whitesmoke;">
+      <select id="topic" name="topic" style="color:black; background-color:whitesmoke; font-weight:bold;">
         <option value="request"></option>
         <option value="request">Make a request</option>
         <option value="before">Before order</option>
@@ -133,12 +133,12 @@
       <label for="subject">Additional info</label>
     </div>
     <div class="col-75">
-      <textarea id="subject" name="subject" placeholder="" style="text-align:right; background-color:whitesmoke;; height:3em;" ></textarea>
+      <textarea id="subject" name="subject" placeholder="" style="text-align:right; background-color:whitesmoke; height:3em; font-weight: bold;" ></textarea>
     </div>
   </div>
    <div class="row2" style="margin-bottom:8em;">
 
-    <div class="col-25" style="text-align:right; font-size:1.5em; margin-top:0em; padding-bottom:2em; background-color:whitesmoke;" >
+    <div class="col-25" style="text-align:right; font-size:1.5em; margin-top:0em; padding-bottom:2em; background-color:whitesmoke; font-weight:bold;" >
       <input type="submit" style="background-color:whitesmoke;" value="Checkout">
     </div></div>
   
@@ -192,12 +192,15 @@ margin-right:4vw;
   .col-25 {
   text-align: right;
   color: black;
-  font-size: 1.34em;
+  font-size: 1.5em;
+  font-weight: bold;
   }
 
   .col-75 {
   text-align: right;
   color: black;
+  font-size: 1.5em;
+  font-weight: bold;
   }
 }
 
@@ -221,12 +224,14 @@ margin-right:7.34vw;
   .col-25 {
   text-align: right;
   color: black;
+  font-weight: bold;
   
 }
 
 .col-75 {
   text-align: right;
   color: black;
+  font-weight: bold;
 }
   }
 
@@ -401,6 +406,7 @@ h3 {
   margin-left: 2vw;
   margin-right: 2vw;
   font-size:1.25em;
+  font-weight: bold;
   margin-top: 4.8em;
   background-color: whitesmoke;  padding:2vw;}
 
@@ -447,7 +453,7 @@ h3 {
 
 
 .right {
- position: absolute;
+  position: absolute;
   right: 2vw;
   width: 5em;
   height: 4em;
@@ -496,6 +502,7 @@ h3 {
   background-color: whitesmoke;
   padding:.67vw;
   font-size:1.25em;
+  font-weight: bold;
 }
 
       }
@@ -644,7 +651,8 @@ h3 {
   color: black;
   margin: 0em;
   padding:0em;
-  font-size: 1.25em;}
+  font-size: 1.25em;
+  font-weight: bold;}
 
  hi {
     background-color:yellow;

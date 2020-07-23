@@ -382,6 +382,14 @@ h3 {
   margin-right: 2vw;
   background-color:whitesmoke;}
 
+   .col-25 {
+  text-align: right;
+  color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 0em;
+  padding:0em;}
+
 
 h3 {
   margin-top:1.5em;
